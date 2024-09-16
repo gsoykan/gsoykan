@@ -7,7 +7,7 @@ I'm **Gürkan Soykan**, a PhD candidate at [Wageningen University](https://www.w
 ## 👨‍💻 About Me
 
 - 🔭 **PhD Researcher**: Focused on **AI-driven solutions** in **precision agriculture**.
-- 🎓 **Formerly @KUISAILab**: Developed deep learning models for **comics**, ranging from **OCR**, **multi-task learning**, **character reidentification**, and **neural comic processing** via **semi-supervised** and **self-supervised learning**.
+- 🎓 **Formerly @KUISAICenter**: Developed deep learning models for **comics**, ranging from **OCR**, **multi-task learning**, **character reidentification**, and **neural comic processing** via **semi-supervised** and **self-supervised learning**.
 - 📚 I’m currently working on **Intelligent Digital Twins** and their applications in greenhouses.
 - 🌱 I’m also learning and building **LLMs** and **Adaptive AI** systems.
 - 💬 Ask me about **NLP**, **AI models**, **Deep Learning**, and **Software Engineering**.
