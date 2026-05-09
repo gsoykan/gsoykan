@@ -28,7 +28,7 @@ If you like my work and/or would like to support me, you can **[Buy Me a Coffee]
 - 🧑‍💻 Languages: `Python`, `JavaScript`, `TypeScript`, `Kotlin`, `Swift`, `C++`, `Dart`
 - 🛠️ Frameworks: `PyTorch`, `FastAPI`, `TensorFlow`, `Keras`, `Flutter`, `NestJS`
 - 🖥️ Tools: `Git`, `Docker`, `Redis`, `Celery`, `PostgreSQL`, `RabbitMQ`, `MongoDB`, `Firebase`
-- 📱 Mobile Development: `Flutter`, `Swift` (iOS)
+- 📱 Mobile Development: `Flutter`, `Swift` (iOS) - example: [FlashCardify](https://www.flashcardify.me/)
 
 ## 🌍 Let's Connect!
 
